@@ -1,4 +1,2 @@
 build/        # 忽略根目录下的 build 文件夹
-**/build/     # 忽略任意层级的 build 文件夹（包括子目录）
 test/        # 忽略根目录下的 build 文件夹
-**/test/     # 忽略任意层级的 build 文件夹（包括子目录）
